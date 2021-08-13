@@ -10,10 +10,13 @@ import androidx.viewpager2.widget.ViewPager2;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
 import com.geek.reandroid1_6_hw.R;
 import com.geek.reandroid1_6_hw.ui.activity.ProfileActivity.ProfilePagerAdapter;
 import com.google.android.material.tabs.TabLayout;
+
+import de.hdodenhof.circleimageview.CircleImageView;
 
 public class ProfileFragment extends Fragment {
 

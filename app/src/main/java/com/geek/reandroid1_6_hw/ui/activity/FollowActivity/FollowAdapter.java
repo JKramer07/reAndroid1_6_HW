@@ -53,8 +53,6 @@ public class FollowAdapter extends RecyclerView.Adapter<FollowAdapter.ViewHolder
             likedText = itemView.findViewById(R.id.followLikedTv);
         }
 
-
-
         public void onBind(Model model) {
             userImage.setImageResource(model.getImage());
             likedImage.setImageResource(model.getImage2());
