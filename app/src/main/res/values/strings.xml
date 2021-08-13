@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">reAndroid1_6_HW</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">joshua_I</string>
+    <string name="user_comment">The game in Japan was amazing and I want to share some photos</string>
+    <string name="home_date">September 19</string>
+</resources>
